@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/team-snape/beta-1issues"
   },
-  "homepage": "https://github.com/team-snape/beta-1#readme"
+  "homepage": "https://github.com/team-snape/beta-1#readme",
+  "dependencies": {
+    "glob": "^7.1.4"
+  }
 }
